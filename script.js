@@ -12,3 +12,5 @@ closeBtn.addEventListener('click',()=>{
 themeToggle.addEventListener('click', ()=>{
     document.body.classList.toggle('dark-theme-variables');
 })
+
+console.log("Hello")
